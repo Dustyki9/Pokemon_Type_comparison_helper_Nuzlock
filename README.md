@@ -5,12 +5,15 @@ thought it would be fun so i did it.  I wish them luck in thier challenge.
 might bring this up to current gen....one.....gen...at...a..time
 
 TODO
-gen 3 - august 
-Genn 4 - aug/sept
+gen 5 - Mid Nov
+Genn 6-7 -Dec
 
 
 
 **CHANGE LOG**
+-added 3 & 4 Gen
+
+-----------------
 
 -Fixed Fuzzy 
 -addeed Gen 2 to search 
