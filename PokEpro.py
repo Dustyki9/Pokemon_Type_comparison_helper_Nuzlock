@@ -609,7 +609,7 @@ def main():
                     except (ValueError, IndexError):
                         print(Fore.RED + "Invalid selection. Please try again.")
 
-        cont = input("Lookup another? (yes/no): ").strip().lower()
+        cont = input("Would you like to Lookup another? (yes/no): ").strip().lower()
         if cont not in ['yes', 'y']:
             print(Fore.CYAN + "Thanks for using PokEpro! Goodbye!")
             break
