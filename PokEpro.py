@@ -7,7 +7,14 @@ from colorama import init, Fore, Style
 
 init(autoreset=True)
 
-OUT = os.path.join(os.path.dirname(__file__), "pokemon_data.txt")
+# Determine path to bundled data when frozen with PyInstaller
+if getattr(sys, 'frozen', False):
+    # PyInstaller places bundled files in _MEIPASS
+    base_path = getattr(sys, '_MEIPASS', os.path.dirname(__file__))
+else:
+    base_path = os.path.dirname(__file__)
+
+OUT = os.path.join(base_path, "pokemon_data.txt")
 
 # New: pretty-print the JSON file on disk to make it easy to read.
 def _pretty_print_json_file(path):
@@ -26,7 +33,9 @@ def _pretty_print_json_file(path):
         print(f"Could not format `{path}`: {e}", file=sys.stderr)
 
 # Call formatter before loading so the file becomes pretty on disk
-_pretty_print_json_file(OUT)
+# Avoid attempting to re-write files inside PyInstaller's _MEIPASS (read-only extraction area)
+if not getattr(sys, 'frozen', False):
+    _pretty_print_json_file(OUT)
 
 # Type-effectiveness chart (attack type -> defense type -> multiplier)
 # Values: 2.0 = super-effective, 0.5 = not very effective, 0.0 = immune

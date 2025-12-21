@@ -12,6 +12,11 @@ Genn 6-7 -Jan
 
 
 **CHANGE LOG**
+-changed layout to be more user friendly
+-mmoved directory structure to be more intuitive
+-made directory into .txt 
+
+-----------------
 -added 3 & 4 Gen
 
 -----------------

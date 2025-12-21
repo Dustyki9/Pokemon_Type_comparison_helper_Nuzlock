@@ -5,7 +5,8 @@ a = Analysis(
     ['PokEpro.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    # include the local pokemon_data.txt into the top-level of the bundled app
+    datas=[('pokemon_data.txt', '.')] ,
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
