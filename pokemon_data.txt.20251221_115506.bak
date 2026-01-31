@@ -1,0 +1,8204 @@
+{
+  "1": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Bulbasaur"
+  },
+  "10": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Caterpie"
+  },
+  "100": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Voltorb"
+  },
+  "101": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Electrode"
+  },
+  "102": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Grass",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Exeggcute"
+  },
+  "103": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Grass",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Exeggutor"
+  },
+  "104": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Cubone"
+  },
+  "105": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Marowak"
+  },
+  "106": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Hitmonlee"
+  },
+  "107": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Hitmonchan"
+  },
+  "108": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Lickitung"
+  },
+  "109": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Koffing"
+  },
+  "11": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Metapod"
+  },
+  "110": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Weezing"
+  },
+  "111": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Flying",
+      "Fire",
+      "Ice",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground",
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Rhyhorn"
+  },
+  "112": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Flying",
+      "Fire",
+      "Ice",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground",
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Rhydon"
+  },
+  "113": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Chansey"
+  },
+  "114": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Tangela"
+  },
+  "115": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Kangaskhan"
+  },
+  "116": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Horsea"
+  },
+  "117": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Seadra"
+  },
+  "118": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Goldeen"
+  },
+  "119": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Seaking"
+  },
+  "12": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Electric",
+      "Ice",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Butterfree"
+  },
+  "120": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Staryu"
+  },
+  "121": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Water",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Starmie"
+  },
+  "122": {
+    "Strength": [
+      "Fighting",
+      "Poison",
+      "Dragon",
+      "Dark",
+      "Fighting"
+    ],
+    "Type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Weakness": [
+      "Poison",
+      "Ghost",
+      "Steel"
+    ],
+    "name": "Mr. Mime"
+  },
+  "123": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Electric",
+      "Ice",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Scyther"
+  },
+  "124": {
+    "Strength": [
+      "Grass",
+      "Ground",
+      "Flying",
+      "Dragon",
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Ice",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Fire",
+      "Rock",
+      "Bug",
+      "Ghost",
+      "Dark",
+      "Steel"
+    ],
+    "name": "Jynx"
+  },
+  "125": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Electabuzz"
+  },
+  "126": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Magmar"
+  },
+  "127": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Pinsir"
+  },
+  "128": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Tauros"
+  },
+  "129": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Magikarp"
+  },
+  "13": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock",
+      "Psychic"
+    ],
+    "name": "Weedle"
+  },
+  "130": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Water",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock"
+    ],
+    "name": "Gyarados"
+  },
+  "131": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Grass",
+      "Flying",
+      "Dragon"
+    ],
+    "Type": [
+      "Water",
+      "Ice"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "name": "Lapras"
+  },
+  "132": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Ditto"
+  },
+  "133": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Eevee"
+  },
+  "134": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Vaporeon"
+  },
+  "135": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Jolteon"
+  },
+  "136": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Flareon"
+  },
+  "137": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Porygon"
+  },
+  "138": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug",
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Rock",
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Omanyte"
+  },
+  "139": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug",
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Rock",
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Omastar"
+  },
+  "14": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock",
+      "Psychic"
+    ],
+    "name": "Kakuna"
+  },
+  "140": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug",
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Rock",
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Kabuto"
+  },
+  "141": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug",
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Rock",
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Kabutops"
+  },
+  "142": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug",
+      "Grass",
+      "Fighting"
+    ],
+    "Type": [
+      "Rock",
+      "Flying"
+    ],
+    "Weakness": [
+      "Water",
+      "Electric",
+      "Ice",
+      "Rock",
+      "Steel"
+    ],
+    "name": "Aerodactyl"
+  },
+  "143": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Snorlax"
+  },
+  "144": {
+    "Strength": [
+      "Grass",
+      "Ground",
+      "Flying",
+      "Dragon"
+    ],
+    "Type": [
+      "Ice",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Electric",
+      "Rock",
+      "Steel"
+    ],
+    "name": "Articuno"
+  },
+  "145": {
+    "Strength": [
+      "Water",
+      "Flying",
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Electric",
+      "Flying"
+    ],
+    "Weakness": [
+      "Ice",
+      "Rock"
+    ],
+    "name": "Zapdos"
+  },
+  "146": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Steel",
+      "Fighting"
+    ],
+    "Type": [
+      "Fire",
+      "Flying"
+    ],
+    "Weakness": [
+      "Water",
+      "Electric",
+      "Rock"
+    ],
+    "name": "Moltres"
+  },
+  "147": {
+    "Strength": [
+      "Dragon"
+    ],
+    "Type": [
+      "Dragon"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon"
+    ],
+    "name": "Dratini"
+  },
+  "148": {
+    "Strength": [
+      "Dragon"
+    ],
+    "Type": [
+      "Dragon"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon"
+    ],
+    "name": "Dragonair"
+  },
+  "149": {
+    "Strength": [
+      "Dragon",
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Dragon",
+      "Flying"
+    ],
+    "Weakness": [
+      "Ice",
+      "Rock",
+      "Dragon",
+      "Fairy"
+    ],
+    "name": "Dragonite"
+  },
+  "15": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock",
+      "Psychic"
+    ],
+    "name": "Beedrill"
+  },
+  "150": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Mewtwo"
+  },
+  "152": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Chikorita"
+  },
+  "153": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Bayleef"
+  },
+  "154": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Meganium"
+  },
+  "155": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Ice",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Cyndaquil"
+  },
+  "156": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Ice",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Quilava"
+  },
+  "157": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Ice",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Typhlosion"
+  },
+  "158": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Totodile"
+  },
+  "159": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Croconaw"
+  },
+  "16": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Pidgey"
+  },
+  "160": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Feraligatr"
+  },
+  "161": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Sentret"
+  },
+  "162": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Furret"
+  },
+  "163": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Hoothoot"
+  },
+  "164": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Noctowl"
+  },
+  "165": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Electric",
+      "Flying",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Ledyba"
+  },
+  "166": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Electric",
+      "Flying",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Ledian"
+  },
+  "167": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "name": "Spinarak"
+  },
+  "168": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "name": "Ariados"
+  },
+  "169": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Poison",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Psychic",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Crobat"
+  },
+  "17": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Pidgeotto"
+  },
+  "170": {
+    "Strength": [
+      "Fire",
+      "Flying",
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water",
+      "Electric"
+    ],
+    "Weakness": [
+      "Grass",
+      "Ground"
+    ],
+    "name": "Chinchou"
+  },
+  "171": {
+    "Strength": [
+      "Fire",
+      "Flying",
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water",
+      "Electric"
+    ],
+    "Weakness": [
+      "Grass",
+      "Ground"
+    ],
+    "name": "Lanturn"
+  },
+  "172": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Pichu"
+  },
+  "173": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Cleffa"
+  },
+  "174": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Igglybuff"
+  },
+  "175": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Togepi"
+  },
+  "176": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Togetic"
+  },
+  "177": {
+    "Strength": [
+      "Fighting",
+      "Poison",
+      "Grass",
+      "Bug"
+    ],
+    "Type": [
+      "Psychic",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Natu"
+  },
+  "178": {
+    "Strength": [
+      "Fighting",
+      "Poison",
+      "Grass",
+      "Bug"
+    ],
+    "Type": [
+      "Psychic",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Xatu"
+  },
+  "179": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Mareep"
+  },
+  "18": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Pidgeot"
+  },
+  "180": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Flaaffy"
+  },
+  "181": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Ampharos"
+  },
+  "182": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Bellossom"
+  },
+  "183": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Marill"
+  },
+  "184": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Azumarill"
+  },
+  "185": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug"
+    ],
+    "Type": [
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Sudowoodo"
+  },
+  "186": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Politoed"
+  },
+  "187": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Grass",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Poison",
+      "Rock"
+    ],
+    "name": "Hoppip"
+  },
+  "188": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Grass",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Poison",
+      "Rock"
+    ],
+    "name": "Skiploom"
+  },
+  "189": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Grass",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Poison",
+      "Rock"
+    ],
+    "name": "Jumpluff"
+  },
+  "19": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Rattata"
+  },
+  "190": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Aipom"
+  },
+  "191": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Sunkern"
+  },
+  "192": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Sunflora"
+  },
+  "193": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Electric",
+      "Flying",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Yanma"
+  },
+  "194": {
+    "Strength": [
+      "Fire",
+      "Rock",
+      "Poison",
+      "Steel",
+      "Electric"
+    ],
+    "Type": [
+      "Water",
+      "Ground"
+    ],
+    "Weakness": [
+      "Grass"
+    ],
+    "name": "Wooper"
+  },
+  "195": {
+    "Strength": [
+      "Fire",
+      "Rock",
+      "Poison",
+      "Steel",
+      "Electric"
+    ],
+    "Type": [
+      "Water",
+      "Ground"
+    ],
+    "Weakness": [
+      "Grass"
+    ],
+    "name": "Quagsire"
+  },
+  "196": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Espeon"
+  },
+  "197": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Dark"
+    ],
+    "Weakness": [
+      "Bug",
+      "Fighting"
+    ],
+    "name": "Umbreon"
+  },
+  "198": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Dark",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Murkrow"
+  },
+  "199": {
+    "Strength": [
+      "Fire",
+      "Fighting",
+      "Poison",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Slowking"
+  },
+  "2": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Ivysaur"
+  },
+  "20": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Raticate"
+  },
+  "200": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Ghost"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Misdreavus"
+  },
+  "201": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Unown"
+  },
+  "202": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Wobbuffet"
+  },
+  "203": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Normal",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Dark"
+    ],
+    "name": "Girafarig"
+  },
+  "204": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Pineco"
+  },
+  "205": {
+    "Strength": [
+      "Grass",
+      "Rock",
+      "Ice",
+      "Fairy"
+    ],
+    "Type": [
+      "Bug",
+      "Steel"
+    ],
+    "Weakness": [
+      "Fire"
+    ],
+    "name": "Forretress"
+  },
+  "206": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Dunsparce"
+  },
+  "207": {
+    "Strength": [
+      "Electric",
+      "Poison",
+      "Rock",
+      "Bug"
+    ],
+    "Type": [
+      "Ground",
+      "Flying"
+    ],
+    "Weakness": [
+      "Water",
+      "Ice"
+    ],
+    "name": "Gligar"
+  },
+  "208": {
+    "Strength": [
+      "Rock",
+      "Fairy",
+      "Poison",
+      "Fire",
+      "Electric"
+    ],
+    "Type": [
+      "Steel",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Steelix"
+  },
+  "209": {
+    "Strength": [
+      "Fighting",
+      "Dark",
+      "Dragon"
+    ],
+    "Type": [
+      "Fairy"
+    ],
+    "Weakness": [
+      "Steel",
+      "Poison"
+    ],
+    "name": "Snubbull"
+  },
+  "21": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Spearow"
+  },
+  "210": {
+    "Strength": [
+      "Fighting",
+      "Dark",
+      "Dragon"
+    ],
+    "Type": [
+      "Fairy"
+    ],
+    "Weakness": [
+      "Steel",
+      "Poison"
+    ],
+    "name": "Granbull"
+  },
+  "211": {
+    "Strength": [
+      "Fire",
+      "Rock",
+      "Fairy",
+      "Grass"
+    ],
+    "Type": [
+      "Water",
+      "Poison"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Qwilfish"
+  },
+  "212": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Rock",
+      "Fairy"
+    ],
+    "Type": [
+      "Bug",
+      "Steel"
+    ],
+    "Weakness": [
+      "Fire"
+    ],
+    "name": "Scizor"
+  },
+  "213": {
+    "Strength": [
+      "Fire",
+      "Flying",
+      "Ice"
+    ],
+    "Type": [
+      "Bug",
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Steel",
+      "Rock"
+    ],
+    "name": "Shuckle"
+  },
+  "214": {
+    "Strength": [
+      "Dark",
+      "Psychic",
+      "Grass",
+      "Rock",
+      "Steel",
+      "Normal",
+      "Ice"
+    ],
+    "Type": [
+      "Bug",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic",
+      "Fairy",
+      "Fire"
+    ],
+    "name": "Heracross"
+  },
+  "215": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Flying",
+      "Dragon",
+      "Grass"
+    ],
+    "Type": [
+      "Dark",
+      "Ice"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Rock",
+      "Bug",
+      "Fire",
+      "Steel",
+      "Fairy"
+    ],
+    "name": "Sneasel"
+  },
+  "216": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Teddiursa"
+  },
+  "217": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Ursaring"
+  },
+  "218": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Ice",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Rock",
+      "Ground"
+    ],
+    "name": "Slugma"
+  },
+  "219": {
+    "Strength": [
+      "Bug",
+      "Ice",
+      "Flying",
+      "Grass"
+    ],
+    "Type": [
+      "Fire",
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Fighting",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Magcargo"
+  },
+  "22": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Fearow"
+  },
+  "220": {
+    "Strength": [
+      "Flying",
+      "Dragon",
+      "Fire",
+      "Rock",
+      "Electric"
+    ],
+    "Type": [
+      "Ice",
+      "Ground"
+    ],
+    "Weakness": [
+      "Fire",
+      "Water",
+      "Grass",
+      "Fighting",
+      "Steel"
+    ],
+    "name": "Swinub"
+  },
+  "221": {
+    "Strength": [
+      "Flying",
+      "Dragon",
+      "Fire",
+      "Rock",
+      "Electric"
+    ],
+    "Type": [
+      "Ice",
+      "Ground"
+    ],
+    "Weakness": [
+      "Fire",
+      "Water",
+      "Grass",
+      "Fighting",
+      "Steel"
+    ],
+    "name": "Piloswine"
+  },
+  "222": {
+    "Strength": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Bug"
+    ],
+    "Type": [
+      "Water",
+      "Rock"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Corsola"
+  },
+  "223": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Remoraid"
+  },
+  "224": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Octillery"
+  },
+  "225": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Ground",
+      "Dragon"
+    ],
+    "Type": [
+      "Ice",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Electric",
+      "Steel",
+      "Rock"
+    ],
+    "name": "Delibird"
+  },
+  "226": {
+    "Strength": [
+      "Fire",
+      "Bug",
+      "Fighting",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock"
+    ],
+    "name": "Mantine"
+  },
+  "227": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fairy",
+      "Ice"
+    ],
+    "Type": [
+      "Steel",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Electric"
+    ],
+    "name": "Skarmory"
+  },
+  "228": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass",
+      "Ice",
+      "Bug"
+    ],
+    "Type": [
+      "Dark",
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Rock",
+      "Ground",
+      "Fighting"
+    ],
+    "name": "Houndour"
+  },
+  "229": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass",
+      "Ice",
+      "Bug"
+    ],
+    "Type": [
+      "Dark",
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Rock",
+      "Ground",
+      "Fighting"
+    ],
+    "name": "Houndoom"
+  },
+  "23": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Ekans"
+  },
+  "230": {
+    "Strength": [
+      "Fire",
+      "Water",
+      "Electric",
+      "Grass"
+    ],
+    "Type": [
+      "Water",
+      "Dragon"
+    ],
+    "Weakness": [
+      "Dragon",
+      "Fairy"
+    ],
+    "name": "Kingdra"
+  },
+  "231": {
+    "Strength": [
+      "Fire",
+      "Rock",
+      "Electric",
+      "Poison"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Ice",
+      "Grass"
+    ],
+    "name": "Phanpy"
+  },
+  "232": {
+    "Strength": [
+      "Fire",
+      "Rock",
+      "Electric",
+      "Poison"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Ice",
+      "Grass"
+    ],
+    "name": "Donphan"
+  },
+  "233": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Porygon2"
+  },
+  "234": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Stantler"
+  },
+  "235": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Smeargle"
+  },
+  "236": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Dark",
+      "Steel",
+      "Rock"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Psychic",
+      "Fairy",
+      "Flying"
+    ],
+    "name": "Tyrogue"
+  },
+  "237": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Dark",
+      "Steel",
+      "Rock"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Psychic",
+      "Fairy",
+      "Flying"
+    ],
+    "name": "Hitmontop"
+  },
+  "238": {
+    "Strength": [
+      "Dragon",
+      "Grass",
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Ice",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Steel",
+      "Ghost",
+      "Dark",
+      "Fire",
+      "Rock",
+      "Bug"
+    ],
+    "name": "Smoochum"
+  },
+  "239": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Elekid"
+  },
+  "24": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Arbok"
+  },
+  "240": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Rock",
+      "Ground"
+    ],
+    "name": "Magby"
+  },
+  "241": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Miltank"
+  },
+  "242": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Blissey"
+  },
+  "243": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Raikou"
+  },
+  "244": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Rock",
+      "Ground"
+    ],
+    "name": "Entei"
+  },
+  "245": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Suicune"
+  },
+  "246": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Flying"
+    ],
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting"
+    ],
+    "name": "Larvitar"
+  },
+  "247": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Flying"
+    ],
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting"
+    ],
+    "name": "Pupitar"
+  },
+  "248": {
+    "Strength": [
+      "Psychic",
+      "Flying",
+      "Fire",
+      "Ghost"
+    ],
+    "Type": [
+      "Rock",
+      "Dark"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Bug",
+      "Fairy",
+      "Water",
+      "Grass",
+      "Steel",
+      "Ground"
+    ],
+    "name": "Tyranitar"
+  },
+  "249": {
+    "Strength": [
+      "Fighting",
+      "Grass",
+      "Bug"
+    ],
+    "Type": [
+      "Psychic",
+      "Flying"
+    ],
+    "Weakness": [
+      "Dark",
+      "Ghost",
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Lugia"
+  },
+  "25": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Pikachu"
+  },
+  "250": {
+    "Strength": [
+      "Bug",
+      "Grass",
+      "Fighting",
+      "Ice",
+      "Steel"
+    ],
+    "Type": [
+      "Fire",
+      "Flying"
+    ],
+    "Weakness": [
+      "Water",
+      "Electric",
+      "Rock"
+    ],
+    "name": "Ho-Oh"
+  },
+  "251": {
+    "Strength": [
+      "Fighting",
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Psychic",
+      "Grass"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Fire",
+      "Flying",
+      "Dark",
+      "Ice",
+      "Poison"
+    ],
+    "name": "Celebi"
+  },
+  "252": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Treecko"
+  },
+  "253": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Grovyle"
+  },
+  "254": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Sceptile"
+  },
+  "255": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Ice",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Torchic"
+  },
+  "256": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Normal",
+      "Rock",
+      "Dark"
+    ],
+    "Type": [
+      "Fire",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Water",
+      "Flying",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Combusken"
+  },
+  "257": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Normal",
+      "Rock",
+      "Dark"
+    ],
+    "Type": [
+      "Fire",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Water",
+      "Flying",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Blaziken"
+  },
+  "258": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Grass",
+      "Electric"
+    ],
+    "name": "Mudkip"
+  },
+  "259": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Water",
+      "Ground"
+    ],
+    "Weakness": [
+      "Grass"
+    ],
+    "name": "Marshtomp"
+  },
+  "26": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Raichu"
+  },
+  "260": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Water",
+      "Ground"
+    ],
+    "Weakness": [
+      "Grass"
+    ],
+    "name": "Swampert"
+  },
+  "261": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Dark"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Bug",
+      "Fairy"
+    ],
+    "name": "Poochyena"
+  },
+  "262": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Dark"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Bug",
+      "Fairy"
+    ],
+    "name": "Mightyena"
+  },
+  "263": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Zigzagoon"
+  },
+  "264": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Linoone"
+  },
+  "265": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Wurmple"
+  },
+  "266": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Silcoon"
+  },
+  "267": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock",
+      "Electric",
+      "Ice"
+    ],
+    "name": "Beautifly"
+  },
+  "268": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Cascoon"
+  },
+  "269": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug",
+      "Fairy"
+    ],
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock",
+      "Psychic"
+    ],
+    "name": "Dustox"
+  },
+  "27": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Sandshrew"
+  },
+  "270": {
+    "Strength": [
+      "Fire",
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water",
+      "Grass"
+    ],
+    "Weakness": [
+      "Flying",
+      "Bug",
+      "Poison",
+      "Ice"
+    ],
+    "name": "Lotad"
+  },
+  "271": {
+    "Strength": [
+      "Fire",
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water",
+      "Grass"
+    ],
+    "Weakness": [
+      "Flying",
+      "Bug",
+      "Poison",
+      "Ice"
+    ],
+    "name": "Lombre"
+  },
+  "272": {
+    "Strength": [
+      "Fire",
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water",
+      "Grass"
+    ],
+    "Weakness": [
+      "Flying",
+      "Bug",
+      "Poison",
+      "Ice"
+    ],
+    "name": "Ludicolo"
+  },
+  "273": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Seedot"
+  },
+  "274": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Grass",
+      "Dark"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Fighting",
+      "Flying",
+      "Bug",
+      "Fairy"
+    ],
+    "name": "Nuzleaf"
+  },
+  "275": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Grass",
+      "Dark"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Fighting",
+      "Flying",
+      "Bug",
+      "Fairy"
+    ],
+    "name": "Shiftry"
+  },
+  "276": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Taillow"
+  },
+  "277": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Swellow"
+  },
+  "278": {
+    "Strength": [
+      "Fire",
+      "Water",
+      "Ground"
+    ],
+    "Type": [
+      "Water",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Wingull"
+  },
+  "279": {
+    "Strength": [
+      "Fire",
+      "Water",
+      "Ground"
+    ],
+    "Type": [
+      "Water",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Pelipper"
+  },
+  "28": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Sandslash"
+  },
+  "280": {
+    "Strength": [
+      "Fighting",
+      "Dragon",
+      "Dark"
+    ],
+    "Type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Poison",
+      "Steel"
+    ],
+    "name": "Ralts"
+  },
+  "281": {
+    "Strength": [
+      "Fighting",
+      "Dragon",
+      "Dark"
+    ],
+    "Type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Poison",
+      "Steel"
+    ],
+    "name": "Kirlia"
+  },
+  "282": {
+    "Strength": [
+      "Fighting",
+      "Dragon",
+      "Dark"
+    ],
+    "Type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Poison",
+      "Steel"
+    ],
+    "name": "Gardevoir"
+  },
+  "283": {
+    "Strength": [
+      "Grass",
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Bug",
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Surskit"
+  },
+  "284": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Fire",
+      "Ice"
+    ],
+    "name": "Masquerain"
+  },
+  "285": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Shroomish"
+  },
+  "286": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Normal",
+      "Ice",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Grass",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Poison",
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Breloom"
+  },
+  "287": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Slakoth"
+  },
+  "288": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Vigoroth"
+  },
+  "289": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Slaking"
+  },
+  "29": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Nidoran Female"
+  },
+  "290": {
+    "Strength": [
+      "Grass",
+      "Poison",
+      "Electric",
+      "Rock"
+    ],
+    "Type": [
+      "Bug",
+      "Ground"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Water",
+      "Ice"
+    ],
+    "name": "Nincada"
+  },
+  "291": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Rock",
+      "Fire",
+      "Electric",
+      "Ice"
+    ],
+    "name": "Ninjask"
+  },
+  "292": {
+    "Strength": [
+      "Grass",
+      "Poison",
+      "Fighting"
+    ],
+    "Type": [
+      "Bug",
+      "Ghost"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Shedinja"
+  },
+  "293": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Whismur"
+  },
+  "294": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Loudred"
+  },
+  "295": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Exploud"
+  },
+  "296": {
+    "Strength": [
+      "Normal",
+      "Rock",
+      "Steel",
+      "Ice",
+      "Dark"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Makuhita"
+  },
+  "297": {
+    "Strength": [
+      "Normal",
+      "Rock",
+      "Steel",
+      "Ice",
+      "Dark"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Hariyama"
+  },
+  "298": {
+    "Strength": [
+      "Fighting",
+      "Dragon",
+      "Dark"
+    ],
+    "Type": [
+      "Normal",
+      "Fairy"
+    ],
+    "Weakness": [
+      "Steel",
+      "Poison"
+    ],
+    "name": "Azurill"
+  },
+  "299": {
+    "Strength": [
+      "Fire",
+      "Flying",
+      "Bug",
+      "Ice"
+    ],
+    "Type": [
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Nosepass"
+  },
+  "3": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Venusaur"
+  },
+  "30": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Nidorina"
+  },
+  "300": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Skitty"
+  },
+  "301": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Delcatty"
+  },
+  "302": {
+    "Strength": [
+      "Psychic",
+      "Poison"
+    ],
+    "Type": [
+      "Dark",
+      "Ghost"
+    ],
+    "Weakness": [
+      "Fairy"
+    ],
+    "name": "Sableye"
+  },
+  "303": {
+    "Strength": [
+      "Dragon",
+      "Dark",
+      "Rock",
+      "Flying",
+      "Psychic"
+    ],
+    "Type": [
+      "Steel",
+      "Fairy"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ground"
+    ],
+    "name": "Mawile"
+  },
+  "304": {
+    "Strength": [
+      "Normal",
+      "Flying",
+      "Rock",
+      "Bug",
+      "Ice",
+      "Psychic",
+      "Dragon"
+    ],
+    "Type": [
+      "Steel",
+      "Rock"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Aron"
+  },
+  "305": {
+    "Strength": [
+      "Normal",
+      "Flying",
+      "Rock",
+      "Bug",
+      "Ice",
+      "Psychic",
+      "Dragon"
+    ],
+    "Type": [
+      "Steel",
+      "Rock"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Lairon"
+  },
+  "306": {
+    "Strength": [
+      "Normal",
+      "Flying",
+      "Rock",
+      "Bug",
+      "Ice",
+      "Psychic",
+      "Dragon"
+    ],
+    "Type": [
+      "Steel",
+      "Rock"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Aggron"
+  },
+  "307": {
+    "Strength": [
+      "Normal",
+      "Rock",
+      "Steel",
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Fighting",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Flying",
+      "Ghost",
+      "Fairy"
+    ],
+    "name": "Meditite"
+  },
+  "308": {
+    "Strength": [
+      "Normal",
+      "Rock",
+      "Steel",
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Fighting",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Flying",
+      "Ghost",
+      "Fairy"
+    ],
+    "name": "Medicham"
+  },
+  "309": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Electrike"
+  },
+  "31": {
+    "Strength": [
+      "Grass",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Poison",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Ice",
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Nidoqueen"
+  },
+  "310": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Manectric"
+  },
+  "311": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Plusle"
+  },
+  "312": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Minun"
+  },
+  "313": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Volbeat"
+  },
+  "314": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Illumise"
+  },
+  "315": {
+    "Strength": [
+      "Water",
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Roselia"
+  },
+  "316": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Gulpin"
+  },
+  "317": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Swalot"
+  },
+  "318": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass"
+    ],
+    "Type": [
+      "Water",
+      "Dark"
+    ],
+    "Weakness": [
+      "Electric",
+      "Fighting",
+      "Ground",
+      "Bug"
+    ],
+    "name": "Carvanha"
+  },
+  "319": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass"
+    ],
+    "Type": [
+      "Water",
+      "Dark"
+    ],
+    "Weakness": [
+      "Electric",
+      "Fighting",
+      "Ground",
+      "Bug"
+    ],
+    "name": "Sharpedo"
+  },
+  "32": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Nidoran Male"
+  },
+  "320": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Wailmer"
+  },
+  "321": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Wailord"
+  },
+  "322": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Numel"
+  },
+  "323": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Camerupt"
+  },
+  "324": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Torkoal"
+  },
+  "325": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Spoink"
+  },
+  "326": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Grumpig"
+  },
+  "327": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Spinda"
+  },
+  "328": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Trapinch"
+  },
+  "329": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock"
+    ],
+    "Type": [
+      "Ground",
+      "Dragon"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "name": "Vibrava"
+  },
+  "33": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Nidorino"
+  },
+  "330": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock"
+    ],
+    "Type": [
+      "Ground",
+      "Dragon"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "name": "Flygon"
+  },
+  "331": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Cacnea"
+  },
+  "332": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Grass",
+      "Dark"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Fighting",
+      "Flying",
+      "Bug",
+      "Fairy"
+    ],
+    "name": "Cacturne"
+  },
+  "333": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Swablu"
+  },
+  "334": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Dragon",
+      "Flying"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon",
+      "Rock",
+      "Fairy"
+    ],
+    "name": "Altaria"
+  },
+  "335": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Zangoose"
+  },
+  "336": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Seviper"
+  },
+  "337": {
+    "Strength": [
+      "Normal",
+      "Fire",
+      "Flying",
+      "Poison"
+    ],
+    "Type": [
+      "Rock",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Ghost",
+      "Dark",
+      "Steel"
+    ],
+    "name": "Lunatone"
+  },
+  "338": {
+    "Strength": [
+      "Normal",
+      "Fire",
+      "Flying",
+      "Poison"
+    ],
+    "Type": [
+      "Rock",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Ghost",
+      "Dark",
+      "Steel"
+    ],
+    "name": "Solrock"
+  },
+  "339": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Water",
+      "Ground"
+    ],
+    "Weakness": [
+      "Grass"
+    ],
+    "name": "Barboach"
+  },
+  "34": {
+    "Strength": [
+      "Grass",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Poison",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Ice",
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Nidoking"
+  },
+  "340": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Water",
+      "Ground"
+    ],
+    "Weakness": [
+      "Grass"
+    ],
+    "name": "Whiscash"
+  },
+  "341": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Corphish"
+  },
+  "342": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass"
+    ],
+    "Type": [
+      "Water",
+      "Dark"
+    ],
+    "Weakness": [
+      "Electric",
+      "Fighting",
+      "Ground",
+      "Bug"
+    ],
+    "name": "Crawdaunt"
+  },
+  "343": {
+    "Strength": [
+      "Fire",
+      "Poison",
+      "Rock"
+    ],
+    "Type": [
+      "Ground",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Baltoy"
+  },
+  "344": {
+    "Strength": [
+      "Fire",
+      "Poison",
+      "Rock"
+    ],
+    "Type": [
+      "Ground",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Claydol"
+  },
+  "345": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Flying"
+    ],
+    "Type": [
+      "Rock",
+      "Grass"
+    ],
+    "Weakness": [
+      "Water",
+      "Ice",
+      "Fighting",
+      "Steel"
+    ],
+    "name": "Lileep"
+  },
+  "346": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Flying"
+    ],
+    "Type": [
+      "Rock",
+      "Grass"
+    ],
+    "Weakness": [
+      "Water",
+      "Ice",
+      "Fighting",
+      "Steel"
+    ],
+    "name": "Cradily"
+  },
+  "347": {
+    "Strength": [
+      "Fire",
+      "Flying",
+      "Ice"
+    ],
+    "Type": [
+      "Rock",
+      "Bug"
+    ],
+    "Weakness": [
+      "Water",
+      "Rock",
+      "Steel",
+      "Ground"
+    ],
+    "name": "Anorith"
+  },
+  "348": {
+    "Strength": [
+      "Fire",
+      "Flying",
+      "Ice"
+    ],
+    "Type": [
+      "Rock",
+      "Bug"
+    ],
+    "Weakness": [
+      "Water",
+      "Rock",
+      "Steel",
+      "Ground"
+    ],
+    "name": "Armaldo"
+  },
+  "349": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Feebas"
+  },
+  "35": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Clefairy"
+  },
+  "350": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Milotic"
+  },
+  "351": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Castform"
+  },
+  "352": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Kecleon"
+  },
+  "353": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Ghost"
+    ],
+    "Weakness": [
+      "Dark"
+    ],
+    "name": "Shuppet"
+  },
+  "354": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Ghost"
+    ],
+    "Weakness": [
+      "Dark"
+    ],
+    "name": "Banette"
+  },
+  "355": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Ghost"
+    ],
+    "Weakness": [
+      "Dark"
+    ],
+    "name": "Duskull"
+  },
+  "356": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Ghost"
+    ],
+    "Weakness": [
+      "Dark"
+    ],
+    "name": "Dusclops"
+  },
+  "357": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Grass",
+      "Flying"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Rock"
+    ],
+    "name": "Tropius"
+  },
+  "358": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Chimecho"
+  },
+  "359": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Dark"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Bug",
+      "Fairy"
+    ],
+    "name": "Absol"
+  },
+  "36": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Clefable"
+  },
+  "360": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Wynaut"
+  },
+  "361": {
+    "Strength": [
+      "Grass",
+      "Ground",
+      "Flying",
+      "Dragon"
+    ],
+    "Type": [
+      "Ice"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Rock",
+      "Steel"
+    ],
+    "name": "Snorunt"
+  },
+  "362": {
+    "Strength": [
+      "Grass",
+      "Ground",
+      "Flying",
+      "Dragon"
+    ],
+    "Type": [
+      "Ice"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Rock",
+      "Steel"
+    ],
+    "name": "Glalie"
+  },
+  "363": {
+    "Strength": [
+      "Grass",
+      "Ground",
+      "Flying",
+      "Dragon",
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Ice",
+      "Water"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Steel",
+      "Electric"
+    ],
+    "name": "Spheal"
+  },
+  "364": {
+    "Strength": [
+      "Grass",
+      "Ground",
+      "Flying",
+      "Dragon",
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Ice",
+      "Water"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Steel",
+      "Electric"
+    ],
+    "name": "Sealeo"
+  },
+  "365": {
+    "Strength": [
+      "Grass",
+      "Ground",
+      "Flying",
+      "Dragon",
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Ice",
+      "Water"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Steel",
+      "Electric"
+    ],
+    "name": "Walrein"
+  },
+  "366": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Clamperl"
+  },
+  "367": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Huntail"
+  },
+  "368": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Gorebyss"
+  },
+  "369": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug"
+    ],
+    "Type": [
+      "Water",
+      "Rock"
+    ],
+    "Weakness": [
+      "Grass",
+      "Electric",
+      "Fighting"
+    ],
+    "name": "Relicanth"
+  },
+  "37": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Vulpix"
+  },
+  "370": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Luvdisc"
+  },
+  "371": {
+    "Strength": [
+      "Dragon"
+    ],
+    "Type": [
+      "Dragon"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "name": "Bagon"
+  },
+  "372": {
+    "Strength": [
+      "Dragon"
+    ],
+    "Type": [
+      "Dragon"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "name": "Shelgon"
+  },
+  "373": {
+    "Strength": [
+      "Dragon",
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Dragon",
+      "Flying"
+    ],
+    "Weakness": [
+      "Ice",
+      "Rock",
+      "Dragon",
+      "Fairy"
+    ],
+    "name": "Salamence"
+  },
+  "374": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Steel",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Ground",
+      "Fire"
+    ],
+    "name": "Beldum"
+  },
+  "375": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Steel",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Ground",
+      "Fire"
+    ],
+    "name": "Metang"
+  },
+  "376": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Steel",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Ground",
+      "Fire"
+    ],
+    "name": "Metagross"
+  },
+  "377": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug"
+    ],
+    "Type": [
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Regirock"
+  },
+  "378": {
+    "Strength": [
+      "Grass",
+      "Ground",
+      "Flying",
+      "Dragon"
+    ],
+    "Type": [
+      "Ice"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Rock",
+      "Steel"
+    ],
+    "name": "Regice"
+  },
+  "379": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Steel"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Registeel"
+  },
+  "38": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Ninetales"
+  },
+  "380": {
+    "Strength": [
+      "Dragon",
+      "Fighting",
+      "Grass",
+      "Poison"
+    ],
+    "Type": [
+      "Dragon",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Ice",
+      "Bug",
+      "Ghost",
+      "Dark",
+      "Fairy"
+    ],
+    "name": "Latias"
+  },
+  "381": {
+    "Strength": [
+      "Dragon",
+      "Fighting",
+      "Grass",
+      "Poison"
+    ],
+    "Type": [
+      "Dragon",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Ice",
+      "Bug",
+      "Ghost",
+      "Dark",
+      "Fairy"
+    ],
+    "name": "Latios"
+  },
+  "382": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Kyogre"
+  },
+  "383": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Groudon"
+  },
+  "384": {
+    "Strength": [
+      "Dragon",
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Dragon",
+      "Flying"
+    ],
+    "Weakness": [
+      "Ice",
+      "Rock",
+      "Dragon",
+      "Fairy"
+    ],
+    "name": "Rayquaza"
+  },
+  "385": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Steel",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Ground",
+      "Fire"
+    ],
+    "name": "Jirachi"
+  },
+  "386": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Deoxys"
+  },
+  "387": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Turtwig"
+  },
+  "388": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Grotle"
+  },
+  "389": {
+    "Strength": [
+      "Water",
+      "Electric",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Ground"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Torterra"
+  },
+  "39": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Jigglypuff"
+  },
+  "390": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Chimchar"
+  },
+  "391": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Normal",
+      "Rock",
+      "Dark"
+    ],
+    "Type": [
+      "Fire",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Water",
+      "Flying",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Monferno"
+  },
+  "392": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Normal",
+      "Rock",
+      "Dark"
+    ],
+    "Type": [
+      "Fire",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Water",
+      "Flying",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Infernape"
+  },
+  "393": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Piplup"
+  },
+  "394": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Prinplup"
+  },
+  "395": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Normal",
+      "Grass",
+      "Ice",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Water",
+      "Steel"
+    ],
+    "Weakness": [
+      "Electric",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Empoleon"
+  },
+  "396": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Starly"
+  },
+  "397": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Staravia"
+  },
+  "398": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Staraptor"
+  },
+  "399": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Bidoof"
+  },
+  "4": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Charmander"
+  },
+  "40": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Wigglytuff"
+  },
+  "400": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Normal",
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Fighting"
+    ],
+    "name": "Bibarel"
+  },
+  "401": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Kricketot"
+  },
+  "402": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Kricketune"
+  },
+  "403": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Shinx"
+  },
+  "404": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Luxio"
+  },
+  "405": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Luxray"
+  },
+  "406": {
+    "Strength": [
+      "Water",
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Budew"
+  },
+  "407": {
+    "Strength": [
+      "Water",
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Roserade"
+  },
+  "408": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug"
+    ],
+    "Type": [
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Cranidos"
+  },
+  "409": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug"
+    ],
+    "Type": [
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Rampardos"
+  },
+  "41": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Poison",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ],
+    "name": "Zubat"
+  },
+  "410": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Rock",
+      "Steel"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Ground",
+      "Water"
+    ],
+    "name": "Shieldon"
+  },
+  "411": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Rock",
+      "Steel"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Ground",
+      "Water"
+    ],
+    "name": "Bastiodon"
+  },
+  "412": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark"
+    ],
+    "Type": [
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "name": "Burmy"
+  },
+  "413": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Dark",
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Bug",
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "name": "Wormadam"
+  },
+  "414": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Rock",
+      "Electric",
+      "Ice",
+      "Fire"
+    ],
+    "name": "Mothim"
+  },
+  "415": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Rock",
+      "Electric",
+      "Ice",
+      "Fire"
+    ],
+    "name": "Combee"
+  },
+  "416": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Rock",
+      "Electric",
+      "Ice",
+      "Fire"
+    ],
+    "name": "Vespiquen"
+  },
+  "417": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Pachirisu"
+  },
+  "418": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Buizel"
+  },
+  "419": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Floatzel"
+  },
+  "42": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Poison",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ],
+    "name": "Golbat"
+  },
+  "420": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Cherubi"
+  },
+  "421": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Cherrim"
+  },
+  "422": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Shellos"
+  },
+  "423": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Water",
+      "Ground"
+    ],
+    "Weakness": [
+      "Grass"
+    ],
+    "name": "Gastrodon"
+  },
+  "424": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Ambipom"
+  },
+  "425": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Ghost",
+      "Flying"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Electric",
+      "Dark",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Drifloon"
+  },
+  "426": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Ghost",
+      "Flying"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Electric",
+      "Dark",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Drifblim"
+  },
+  "427": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Buneary"
+  },
+  "428": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Lopunny"
+  },
+  "429": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Ghost"
+    ],
+    "Weakness": [
+      "Dark"
+    ],
+    "name": "Mismagius"
+  },
+  "43": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Oddish"
+  },
+  "430": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Dark",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock",
+      "Fairy"
+    ],
+    "name": "Honchkrow"
+  },
+  "431": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Glameow"
+  },
+  "432": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Purugly"
+  },
+  "433": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Chingling"
+  },
+  "434": {
+    "Strength": [
+      "Grass",
+      "Ghost",
+      "Psychic"
+    ],
+    "Type": [
+      "Poison",
+      "Dark"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Ground",
+      "Bug",
+      "Fairy"
+    ],
+    "name": "Stunky"
+  },
+  "435": {
+    "Strength": [
+      "Grass",
+      "Ghost",
+      "Psychic"
+    ],
+    "Type": [
+      "Poison",
+      "Dark"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Ground",
+      "Bug",
+      "Fairy"
+    ],
+    "name": "Skuntank"
+  },
+  "436": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Steel",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ground",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Bronzor"
+  },
+  "437": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Steel",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ground",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Bronzong"
+  },
+  "438": {
+    "Strength": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Bug"
+    ],
+    "Type": [
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Bonsly"
+  },
+  "439": {
+    "Strength": [
+      "Fighting",
+      "Dragon",
+      "Dark"
+    ],
+    "Type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Poison",
+      "Steel"
+    ],
+    "name": "Mime Jr."
+  },
+  "44": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Gloom"
+  },
+  "440": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Happiny"
+  },
+  "441": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "name": "Chatot"
+  },
+  "442": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Ghost",
+      "Dark"
+    ],
+    "Weakness": [
+      "Fairy"
+    ],
+    "name": "Spiritomb"
+  },
+  "443": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Dragon",
+      "Ground"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon",
+      "Fairy",
+      "Water",
+      "Grass"
+    ],
+    "name": "Gible"
+  },
+  "444": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Dragon",
+      "Ground"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon",
+      "Fairy",
+      "Water",
+      "Grass"
+    ],
+    "name": "Gabite"
+  },
+  "445": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Dragon",
+      "Ground"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon",
+      "Fairy",
+      "Water",
+      "Grass"
+    ],
+    "name": "Garchomp"
+  },
+  "446": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Munchlax"
+  },
+  "447": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Riolu"
+  },
+  "448": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Fighting",
+      "Steel"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Lucario"
+  },
+  "449": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Hippopotas"
+  },
+  "45": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Vileplume"
+  },
+  "450": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Hippowdon"
+  },
+  "451": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison",
+      "Bug"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "name": "Skorupi"
+  },
+  "452": {
+    "Strength": [
+      "Grass",
+      "Fairy",
+      "Ghost",
+      "Psychic"
+    ],
+    "Type": [
+      "Poison",
+      "Dark"
+    ],
+    "Weakness": [
+      "Ground",
+      "Fighting"
+    ],
+    "name": "Drapion"
+  },
+  "453": {
+    "Strength": [
+      "Grass",
+      "Fairy",
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Poison",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Croagunk"
+  },
+  "454": {
+    "Strength": [
+      "Grass",
+      "Fairy",
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Poison",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Toxicroak"
+  },
+  "455": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Carnivine"
+  },
+  "456": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Finneon"
+  },
+  "457": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Lumineon"
+  },
+  "458": {
+    "Strength": [
+      "Fire",
+      "Fighting",
+      "Bug",
+      "Grass"
+    ],
+    "Type": [
+      "Water",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Rock"
+    ],
+    "name": "Mantyke"
+  },
+  "459": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Dragon",
+      "Flying"
+    ],
+    "Type": [
+      "Grass",
+      "Ice"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Poison",
+      "Steel"
+    ],
+    "name": "Snover"
+  },
+  "46": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Bug",
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Poison",
+      "Bug",
+      "Ice"
+    ],
+    "name": "Paras"
+  },
+  "460": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Dragon",
+      "Flying"
+    ],
+    "Type": [
+      "Grass",
+      "Ice"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Poison",
+      "Steel"
+    ],
+    "name": "Abomasnow"
+  },
+  "461": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Dragon",
+      "Grass",
+      "Flying"
+    ],
+    "Type": [
+      "Dark",
+      "Ice"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Rock",
+      "Steel",
+      "Fairy"
+    ],
+    "name": "Weavile"
+  },
+  "462": {
+    "Strength": [
+      "Water",
+      "Flying",
+      "Normal",
+      "Grass",
+      "Ice",
+      "Psychic",
+      "Dragon",
+      "Fairy",
+      "Rock"
+    ],
+    "Type": [
+      "Electric",
+      "Steel"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Magnezone"
+  },
+  "463": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Lickilicky"
+  },
+  "464": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Flying",
+      "Normal",
+      "Ice",
+      "Flying",
+      "Bug"
+    ],
+    "Type": [
+      "Ground",
+      "Rock"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Steel",
+      "Ground",
+      "Ice"
+    ],
+    "name": "Rhyperior"
+  },
+  "465": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Tangrowth"
+  },
+  "466": {
+    "Strength": [
+      "Water",
+      "Flying"
+    ],
+    "Type": [
+      "Electric"
+    ],
+    "Weakness": [
+      "Ground"
+    ],
+    "name": "Electivire"
+  },
+  "467": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Magmortar"
+  },
+  "468": {
+    "Strength": [
+      "Fighting",
+      "Dragon",
+      "Grass",
+      "Bug"
+    ],
+    "Type": [
+      "Fairy",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Poison",
+      "Rock"
+    ],
+    "name": "Togekiss"
+  },
+  "469": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Weakness": [
+      "Rock",
+      "Electric",
+      "Ice",
+      "Fire"
+    ],
+    "name": "Yanmega"
+  },
+  "47": {
+    "Strength": [
+      "Grass",
+      "Psychic",
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Bug",
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Poison",
+      "Bug",
+      "Ice"
+    ],
+    "name": "Parasect"
+  },
+  "470": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Leafeon"
+  },
+  "471": {
+    "Strength": [
+      "Grass",
+      "Ground",
+      "Flying",
+      "Dragon"
+    ],
+    "Type": [
+      "Ice"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Rock",
+      "Steel"
+    ],
+    "name": "Glaceon"
+  },
+  "472": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Ground",
+      "Flying"
+    ],
+    "Weakness": [
+      "Water",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Gliscor"
+  },
+  "473": {
+    "Strength": [
+      "Grass",
+      "Electric",
+      "Flying",
+      "Dragon",
+      "Poison",
+      "Rock"
+    ],
+    "Type": [
+      "Ice",
+      "Ground"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Steel",
+      "Water"
+    ],
+    "name": "Mamoswine"
+  },
+  "474": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Porygon-Z"
+  },
+  "475": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Psychic",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Ghost",
+      "Fairy"
+    ],
+    "name": "Gallade"
+  },
+  "476": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Rock",
+      "Steel"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Ground",
+      "Water"
+    ],
+    "name": "Probopass"
+  },
+  "477": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Ghost"
+    ],
+    "Weakness": [
+      "Dark"
+    ],
+    "name": "Dusknoir"
+  },
+  "478": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Ice",
+      "Ghost"
+    ],
+    "Weakness": [
+      "Fire",
+      "Dark",
+      "Rock",
+      "Steel"
+    ],
+    "name": "Froslass"
+  },
+  "479": {
+    "Strength": [
+      "Water",
+      "Flying",
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Electric",
+      "Ghost"
+    ],
+    "Weakness": [
+      "Dark",
+      "Ground"
+    ],
+    "name": "Rotom"
+  },
+  "48": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock",
+      "Psychic"
+    ],
+    "name": "Venonat"
+  },
+  "480": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Uxie"
+  },
+  "481": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Mesprit"
+  },
+  "482": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Azelf"
+  },
+  "483": {
+    "Strength": [
+      "Normal",
+      "Grass",
+      "Ice",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Steel",
+      "Dragon"
+    ],
+    "Weakness": [
+      "Ground",
+      "Fighting"
+    ],
+    "name": "Dialga"
+  },
+  "484": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Dragon"
+    ],
+    "Type": [
+      "Water",
+      "Dragon"
+    ],
+    "Weakness": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "name": "Palkia"
+  },
+  "485": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Normal",
+      "Flying",
+      "Rock",
+      "Psychic",
+      "Dragon",
+      "Fairy"
+    ],
+    "Type": [
+      "Fire",
+      "Steel"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Heatran"
+  },
+  "486": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Regigigas"
+  },
+  "487": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Dragon"
+    ],
+    "Type": [
+      "Ghost",
+      "Dragon"
+    ],
+    "Weakness": [
+      "Ice",
+      "Dragon",
+      "Dark",
+      "Fairy"
+    ],
+    "name": "Giratina"
+  },
+  "488": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Cresselia"
+  },
+  "489": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Phione"
+  },
+  "49": {
+    "Strength": [
+      "Grass",
+      "Psychic"
+    ],
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Flying",
+      "Rock",
+      "Psychic"
+    ],
+    "name": "Venomoth"
+  },
+  "490": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Manaphy"
+  },
+  "491": {
+    "Strength": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Type": [
+      "Dark"
+    ],
+    "Weakness": [
+      "Fighting",
+      "Bug",
+      "Fairy"
+    ],
+    "name": "Darkrai"
+  },
+  "492": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "name": "Shaymin"
+  },
+  "493": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Arceus"
+  },
+  "5": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Charmeleon"
+  },
+  "50": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Diglett"
+  },
+  "51": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "name": "Dugtrio"
+  },
+  "52": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Meowth"
+  },
+  "53": {
+    "Strength": [],
+    "Type": [
+      "Normal"
+    ],
+    "Weakness": [
+      "Fighting"
+    ],
+    "name": "Persian"
+  },
+  "54": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Psyduck"
+  },
+  "55": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Golduck"
+  },
+  "56": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Mankey"
+  },
+  "57": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Primeape"
+  },
+  "58": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Growlithe"
+  },
+  "59": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Arcanine"
+  },
+  "6": {
+    "Strength": [
+      "Grass",
+      "Bug",
+      "Steel",
+      "Fighting"
+    ],
+    "Type": [
+      "Fire",
+      "Flying"
+    ],
+    "Weakness": [
+      "Water",
+      "Electric",
+      "Rock"
+    ],
+    "name": "Charizard"
+  },
+  "60": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Poliwag"
+  },
+  "61": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Poliwhirl"
+  },
+  "62": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Water",
+      "Fighting"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Poliwrath"
+  },
+  "63": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Abra"
+  },
+  "64": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Kadabra"
+  },
+  "65": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Alakazam"
+  },
+  "66": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Machop"
+  },
+  "67": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Machoke"
+  },
+  "68": {
+    "Strength": [
+      "Normal",
+      "Ice",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "Type": [
+      "Fighting"
+    ],
+    "Weakness": [
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Machamp"
+  },
+  "69": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Bellsprout"
+  },
+  "7": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Squirtle"
+  },
+  "70": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Weepinbell"
+  },
+  "71": {
+    "Strength": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "name": "Victreebel"
+  },
+  "72": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Water",
+      "Poison"
+    ],
+    "Weakness": [
+      "Electric",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Tentacool"
+  },
+  "73": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Water",
+      "Poison"
+    ],
+    "Weakness": [
+      "Electric",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Tentacruel"
+  },
+  "74": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Flying",
+      "Fire",
+      "Ice",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Geodude"
+  },
+  "75": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Flying",
+      "Fire",
+      "Ice",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Graveler"
+  },
+  "76": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Flying",
+      "Fire",
+      "Ice",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Golem"
+  },
+  "77": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Ponyta"
+  },
+  "78": {
+    "Strength": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "Type": [
+      "Fire"
+    ],
+    "Weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "name": "Rapidash"
+  },
+  "79": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Water",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Slowpoke"
+  },
+  "8": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Wartortle"
+  },
+  "80": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Water",
+      "Psychic"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Slowbro"
+  },
+  "81": {
+    "Strength": [
+      "Water",
+      "Flying",
+      "Ice",
+      "Rock"
+    ],
+    "Type": [
+      "Electric",
+      "Steel"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Magnemite"
+  },
+  "82": {
+    "Strength": [
+      "Water",
+      "Flying",
+      "Ice",
+      "Rock"
+    ],
+    "Type": [
+      "Electric",
+      "Steel"
+    ],
+    "Weakness": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "name": "Magneton"
+  },
+  "83": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Farfetch'd"
+  },
+  "84": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Doduo"
+  },
+  "85": {
+    "Strength": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "name": "Dodrio"
+  },
+  "86": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Seel"
+  },
+  "87": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Grass",
+      "Flying",
+      "Dragon"
+    ],
+    "Type": [
+      "Water",
+      "Ice"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "name": "Dewgong"
+  },
+  "88": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Grimer"
+  },
+  "89": {
+    "Strength": [
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Poison"
+    ],
+    "Weakness": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Muk"
+  },
+  "9": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Blastoise"
+  },
+  "90": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Shellder"
+  },
+  "91": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock",
+      "Grass",
+      "Flying",
+      "Dragon"
+    ],
+    "Type": [
+      "Water",
+      "Ice"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "name": "Cloyster"
+  },
+  "92": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Ghost",
+      "Poison"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Gastly"
+  },
+  "93": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Ghost",
+      "Poison"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Haunter"
+  },
+  "94": {
+    "Strength": [
+      "Psychic",
+      "Ghost",
+      "Grass",
+      "Fairy"
+    ],
+    "Type": [
+      "Ghost",
+      "Poison"
+    ],
+    "Weakness": [
+      "Ghost",
+      "Psychic",
+      "Ground"
+    ],
+    "name": "Gengar"
+  },
+  "95": {
+    "Strength": [
+      "Fire",
+      "Electric",
+      "Poison",
+      "Flying",
+      "Fire",
+      "Ice",
+      "Rock",
+      "Steel"
+    ],
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "name": "Onix"
+  },
+  "96": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Drowzee"
+  },
+  "97": {
+    "Strength": [
+      "Fighting",
+      "Poison"
+    ],
+    "Type": [
+      "Psychic"
+    ],
+    "Weakness": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Hypno"
+  },
+  "98": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Krabby"
+  },
+  "99": {
+    "Strength": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "Type": [
+      "Water"
+    ],
+    "Weakness": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Kingler"
+  }
+}
