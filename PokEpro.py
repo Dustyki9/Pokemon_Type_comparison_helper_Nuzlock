@@ -184,10 +184,22 @@ def blinking_dots(message="Loading", cycles=3, delay=0.4):
             time.sleep(delay)
     print("\r" + " " * (len(message) + 5), end='\r')
 
+def _ask_lookup_another():
+    """Prompt until user answers yes/no. Return True to continue, False to exit."""
+    while True:
+        cont = input("Would you like to Lookup another? (yes/no): ").strip().lower()
+        if cont in ("yes", "y"):
+            return True
+        if cont in ("no", "n"):
+            print(Fore.CYAN + "Thanks for using PokEpro! Goodbye!")
+            return False
+        print(Fore.YELLOW + "Please answer 'yes' or 'no'.")
+
+
 def main():
     history = []
 
-    blinking_dots("Booting PokEpro V2")
+    blinking_dots("Booting PokEpro V5.01")
     time.sleep(2)
 
     blinking_dots("Loading Pokédex system")
@@ -201,11 +213,12 @@ def main():
     type_out("Commands: 'list' to show all Pokémon, 'undo' to go back, 'quit' to exit.\n", Fore.MAGENTA)
 
     while True:
-        user_input = input(Fore.WHITE + "Enter Pokémon name or number (or command): ").strip().lower()
+        user_input = input(Fore.WHITE + "Enter Pokémon name or number (or type commands): ").strip().lower()
 
         if user_input in ["quit", "exit"]:
             print(Fore.CYAN + "Thanks for using PokEpro! Goodbye!")
-            break
+            return
+
 
         if user_input == "undo":
             if len(history) >= 2:
@@ -227,6 +240,8 @@ def main():
             if number in pokemon_by_number:
                 print_pokemon_info(number)
                 history.append(number)
+                if not _ask_lookup_another():
+                    return
             else:
                 print(Fore.RED + "❌ ERROR: Unknown Pokédex number.")
         else:
@@ -235,6 +250,9 @@ def main():
                 number = pokemon_by_name[user_input]
                 print_pokemon_info(number)
                 history.append(number)
+                if not _ask_lookup_another():
+                    return
+                continue
             else:
                 # Try partial/fuzzy
                 matches = search_pokemon_by_partial_name(user_input)
@@ -244,6 +262,9 @@ def main():
                     number = pokemon_by_name[matches[0]]
                     print_pokemon_info(number)
                     history.append(number)
+                    if not _ask_lookup_another():
+                        return
+                    continue
                 else:
                     print(Fore.YELLOW + "Multiple Pokémon found matching your input:")
                     for i, name in enumerate(matches, 1):
@@ -257,13 +278,11 @@ def main():
                         number = pokemon_by_name[selected_name]
                         print_pokemon_info(number)
                         history.append(number)
+                        if not _ask_lookup_another():
+                            return
                     except (ValueError, IndexError):
                         print(Fore.RED + "Invalid selection. Please try again.")
 
-        cont = input("Would you like to Lookup another? (yes/no): ").strip().lower()
-        if cont not in ['yes', 'y']:
-            print(Fore.CYAN + "Thanks for using PokEpro! Goodbye!")
-            break
 
 if __name__ == "__main__":
     main()
