@@ -354,7 +354,11 @@ def main():
                             pokemon_by_name[name]]['name']
                         print(f"{i}. {poke_name}")
                     try:
-                        choice = int(input("Enter number of the Pokémon to select (or 0 to cancel): "))
+                        choice = int(input("Enter " \
+                        "number of the " \
+                        "Pokémon to select "
+                        "(or 0 to cancel): "))
+
                         if choice == 0:
                             print("Cancelled selection.")
                             continue
@@ -362,11 +366,14 @@ def main():
                         number = pokemon_by_name[selected_name]
                         print_pokemon_info(number)
                         history.append(number)
+
                         if not _ask_lookup_another():
                             return
                     except (ValueError, IndexError):
-                        print(Fore.RED + "Invalid selection. Please try again.")
+                        print(Fore.RED + "Invalid selection."
+                        "Please try again.")
 
 
 if __name__ == "__main__":
     main()
+
